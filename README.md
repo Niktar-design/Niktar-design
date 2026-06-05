@@ -1,45 +1,48 @@
-.section-title {
-  font-family: 'Syne', sans-serif;
-  font-size: 11px;
-  letter-spacing: 0.25em;
-  text-transform: uppercase;
-  color: var(--text);
-  font-weight: 700;
-  margin-bottom: 20px;
-  
-  /* Включаем флекс, чтобы линия шла строго в ряд с текстом */
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}
+# Hi there, I'm Olga!
 
-/* Красивая светящаяся неоновая точка СЛЕВА от текста */
-.section-title::before {
-  content: '';
-  width: 5px; 
-  height: 5px;
-  border-radius: 50%;
-  background: linear-gradient(135deg, var(--accent-purple), var(--accent-blue));
-  display: block;
-  flex-shrink: 0;
-  box-shadow: 0 0 8px var(--accent-blue);
-}
 
-/* Тонкая футуристичная линия, уходящая в прозрачность СПРАВА от текста */
-.section-title::after {
-  content: '';
-  flex: 1;
-  height: 1px;
-  background: linear-gradient(90deg, rgba(78,205,230,0.25) 0%, rgba(255,255,255,0.02) 100%);
-  display: block;
-}
 
-/* Если заголовок находится в боковой панели (левой колонке) — меняем цвета на розовый неон */
-.sidebar .section-title::before { 
-  background: linear-gradient(135deg, var(--accent-pink), var(--accent-purple)); 
-  box-shadow: 0 0 8px var(--accent-pink);
-}
+I am a **Graphic Designer & AI Character Artist** passionate about crafting unique visual identities, logo designs, and captivating character concepts. I bridge the gap between traditional design principles and modern AI tools to deliver standout visual solutions for brands.
 
-.sidebar .section-title::after {
-  background: linear-gradient(90deg, rgba(255,95,160,0.25) 0%, rgba(255,255,255,0.02) 100%);
-}
+
+
+---
+
+
+
+### Core Expertise & Tools
+
+
+
+* **Design & Branding**
+
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white" alt="InDesign"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+
+* **AI & Next-Gen Creativity**
+
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"> <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+
+* **Specialization:** Logo Design, Brand Identity, 3D Character Concept Art, Digital & Print Materials.
+
+
+
+---
+
+
+
+### Portfolio & Connect
+
+
+
+* **Website:** [View My Portfolio Website](https://niktar-design.github.io)
+
+* **Behance:** [Behance Portfolio](https://www.behance.net/niktar_design)
+
+* **Telegram:** [Let's Chat on Telegram](https://t.me/Niktarka)
+
+
+
+---
+
+_Feel free to reach out if you want to collaborate on a project or just talk about design and AI art!_
+
