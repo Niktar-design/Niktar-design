@@ -22,7 +22,7 @@ I am a **Graphic Designer, Video Editor & AI Artist** passionate about crafting 
 
 * **AI & Next-Gen Creativity**
 
-  <img src="https://img.shields.io/badge/Adobe%20Firefly-FF6A00?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Firefly"> <img src="https://img.shields.io/badge/Flux-00C9A7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Flux"> <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"> <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"> <img src="https://img.shields.io/badge/Midjourney-23272A?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney">
+  <img src="https://img.shields.io/badge/Adobe%20Firefly-FF6A00?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Firefly"> <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini"> <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"> <img src="https://img.shields.io/badge/Midjourney-FF1493?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney"> <img src="https://img.shields.io/badge/Flux-00C9A7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Flux">
 
 
 
