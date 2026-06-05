@@ -1,7 +1,6 @@
-/* === SECTIONS & HEADINGS === */
 .section { 
   margin-bottom: 35px; 
-  clear: both; /* Защита от наплывания плавающих элементов */
+  clear: both; 
 }
 
 .section-title {
@@ -10,15 +9,13 @@
   font-weight: 700;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #ffffff; /* Базовый белый, поменяйте на var(--text), если нужно */
-  
+  color: #ffffff;
   position: relative;
-  padding-left: 15px; /* Место под точку */
+  padding-left: 15px;
   margin-bottom: 20px;
   line-height: 1.4;
 }
 
-/* Элегантная светящаяся точка слева от заголовка */
 .section-title::before {
   content: '';
   position: absolute;
@@ -28,11 +25,10 @@
   width: 6px; 
   height: 6px;
   border-radius: 50%;
-  background: #4ecde6; /* Акцентный голубой */
+  background: #4ecde6;
   box-shadow: 0 0 8px rgba(78, 205, 230, 0.6);
 }
 
-/* Тонкая линия подчеркивания, уходящая в прозрачность */
 .section-title::after {
   content: '';
   display: block;
@@ -42,9 +38,8 @@
   background: linear-gradient(90deg, rgba(78, 205, 230, 0.3) 0%, rgba(255, 255, 255, 0) 100%);
 }
 
-/* Стилизация для боковой панели (Sidebar) — меняем цвет на розовый/фиолетовый */
 .sidebar .section-title::before { 
-  background: #ff79c6; /* Розовый акцент */
+  background: #ff79c6;
   box-shadow: 0 0 8px rgba(255, 121, 198, 0.6);
 }
 
